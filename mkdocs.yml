@@ -1,0 +1,19 @@
+site_name: AdventureWorks Analytics
+site_description: Sales and Financial Analytics
+
+theme:
+  name: material
+
+nav:
+  - Overview: index.md
+  - Business Questions: business-questions.md
+  - Insights: insights.md
+  - Best Practices: best-practices.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  
