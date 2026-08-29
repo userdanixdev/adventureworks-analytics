@@ -1,19 +1,82 @@
 site_name: AdventureWorks Analytics
-site_description: Sales and Financial Analytics
+site_description: Sales and Financial Analytics Project
+site_author: Dar
 
 theme:
   name: material
+  language: en
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tabs.link
+
+  font:
+    text: Inter
+    code: JetBrains Mono
+
+  icon:
+    logo: material/chart-line
+    repo: fontawesome/brands/github
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+repo_name: userdanixdev/azure-adventureworks
+repo_url: https://github.com/userdanixdev/azure-adventureworks
 
 nav:
   - Overview: index.md
-  - Business Questions: business-questions.md
-  - Insights: insights.md
-  - Best Practices: best-practices.md
+
+  - Business Analysis:
+      - Business Questions: business-questions.md
+      - Insights: insights.md
+
+  - Technical Documentation:
+      - Best Practices: best-practices.md
 
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+
   - pymdownx.tabbed:
       alternate_style: true
-  
+
+  - attr_list
+  - md_in_html
+  - tables
+
+plugins:
+  - search
+
+extra:
+  generator: false
+
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/userdanixdev/azure-adventureworks
+      name: GitHub
+
+copyright: >
+  AdventureWorks Analytics · Data Analytics Portfolio
