@@ -1,24 +1,53 @@
 # AdventureWorks Analytics
 
-> Sales and Financial Analytics Project
+**Sales & Financial Analytics**
+
+End-to-end data analytics project built with SQL Server, dbt and Power BI.
+
+[View Dashboard](SEU_LINK_POWER_BI){ .md-button .md-button--primary }
+
+[View Source Code](https://github.com/userdanixdev/azure-adventureworks){ .md-button }
 
 ---
 
-## 🎯 About the Project
+## Project Overview
 
-This project presents an end-to-end analytics solution built on the AdventureWorks dataset.
+This project transforms transactional sales data into an analytical
+model designed to support business analysis and decision-making.
 
-The objective is to transform transactional data into a structured analytical model and provide business insights through Power BI.
+!!! abstract "Project Focus"
 
-## 🏗️ Solution Architecture
+    Sales performance, revenue, profitability, products,
+    customers and year-over-year analysis.
+
+---
+
+## Architecture
 
 ```text
-SQL Server
-    ↓
-   dbt
-    ↓
-Dimensional Model
-    ↓
-  Power BI
-    ↓
-Business Insights
+AdventureWorksDW2022
+        ↓
+    SQL Server
+        ↓
+       dbt
+        ↓
+ Dimensional Model
+        ↓
+     Power BI
+        ↓
+ Business Insights
+
+ **Business Questions**
+
+Understand the questions that guided the analysis.
+
+**Insights**
+
+Explore the main findings identified in the data.
+
+**Best Practices**
+
+Review the engineering and analytics practices applied
+throughout the project.
+
+Access the GitHub repository, Power BI dashboard and dbt documentation.
