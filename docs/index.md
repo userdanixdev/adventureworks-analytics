@@ -39,10 +39,7 @@ Esta etapa representa a fase final. Onde há a transformação, modelagem, visua
 
 Após as etapas de restauração do banco de dados, preparação da infraestrutura e desenvolvimento do processo de migração, os dados disponibilizados no ambiente de destino passam por uma camada de transformação e modelagem utilizando dbt (data build tool).
 
-Se quiser conferir a etapa inicial - 
 [View Source Code](https://github.com/userdanixdev/azure-adventureworks){ .md-button }
-
-Caso queira conferir a etapa de migração do banco de dados - 
 [View Migration Code](https://github.com/userdanixdev/azure-adventureworks/tree/migration-azure-database){ .md-button }
 
 ---
