@@ -1,4 +1,4 @@
-# Insights :
+# *Insights*
 ## Mudança Drástica no Mix de Produtos:
 
 A linha azul (transações) descola fortemente das barras cinzas (receita) ao longo do ano. Isso é a prova matemática de que o Ticket Médio está caindo mês a mês. Provavelmente atraíram um volume massivo de clientes novos comprando itens de entrada ou acessórios, diluindo o peso dos itens de alto valor (como as bicicletas).
@@ -37,32 +37,49 @@ A trajetória da receita mostra uma clara tendência de alta, caracterizada por 
 
 Após o pico de junho, a receita nunca mais retornou aos níveis baixos do início do ano, mantendo-se sempre acima de R$ 1,82 Mi e construindo uma rampa ascendente sólida até dezembro.
 
-## Crescimento e Redução de Resultados
+## Crescimento e Redução de Resultados:
+
 O principal destaque é a comparação anual (Year-over-Year), mas o cenário mensal revela flutuações importantes:
 
-**Hipercrescimento Anual**: O negócio está escalando de forma agressiva, com um aumento de quase 180% na receita em relação ao ano anterior (de R$ 5,84 Mi para R$ 16,35 Mi).
+**Hipercrescimento Anual**: 
 
-**As Retrações (Reduções Mensais):** O crescimento não foi linear. Houve quedas de receita em três momentos: de janeiro para fevereiro (-R$ 70 mil), um resfriamento natural em julho após o boom de junho (-R$ 380 mil) e uma leve queda em setembro (-R$ 140 mil).
+- O negócio está escalando de forma agressiva, com um aumento de quase 180% na receita em relação ao ano anterior (de R$ 5,84 Mi para R$ 16,35 Mi).
 
-**As Acelerações:** O salto de maio para junho (+R$ 560 mil) e a arrancada final no último trimestre (outubro a dezembro) representam os motores desse crescimento.
+**As Retrações (Reduções Mensais):** 
+
+- O crescimento não foi linear. Houve quedas de receita em três momentos: de janeiro para fevereiro (-R$ 70 mil), um resfriamento natural em julho após o boom de junho (-R$ 380 mil) e uma leve queda em setembro (-R$ 140 mil).
+
+**As Acelerações:** 
+
+- O salto de maio para junho (+R$ 560 mil) e a arrancada final no último trimestre (outubro a dezembro) representam os motores desse crescimento.
 
 ## Relação entre Receita, Custos e Lucro:
 
 Os indicadores gerais no topo do painel revelam a saúde estrutural da operação durante esse ganho de escala:
 
-**Crescimento Simétrico:** A receita cresceu 179,87%, enquanto os custos cresceram 180,75%. O lucro bruto acompanhou de perto, subindo 178,64%.
+**Crescimento Simétrico:**
 
-**Manutenção de Margem:** Essa simetria indica que a sua margem bruta se manteve praticamente inalterada (em torno de 41,4%). A empresa conseguiu vender quase três vezes mais sem precisar sacrificar sua margem para ganhar mercado e sem que os custos saíssem do controle.
+- A receita cresceu 179,87%, enquanto os custos cresceram 180,75%. O lucro bruto acompanhou de perto, subindo 178,64%.
 
-**Alerta de Escala:** Por outro lado, como os custos cresceram ligeiramente acima da receita (180,75% vs 179,87%), nota-se que a empresa ainda não está capturando ganho de escala. O custo unitário das mercadorias não barateou, apesar do volume de compras muito maior.
+**Manutenção de Margem:**
+
+- Essa simetria indica que a sua margem bruta se manteve praticamente inalterada (em torno de 41,4%). A empresa conseguiu vender quase três vezes mais sem precisar sacrificar sua margem para ganhar mercado e sem que os custos saíssem do controle.
+
+**Alerta de Escala:** 
+
+- Por outro lado, como os custos cresceram ligeiramente acima da receita (180,75% vs 179,87%), nota-se que a empresa ainda não está capturando ganho de escala. O custo unitário das mercadorias não barateou, apesar do volume de compras muito maior.
 
 ## Identificação Rápida de Períodos de Desempenho:
 
 Olhando para as barras e a linha de tendência, os extremos ficam muito claros:
 
-**Os Melhores Períodos (Alta Performance):** O último trimestre (Q4) é indiscutivelmente o mais forte. Dezembro é o mês recorde absoluto, gerando R$ 2,50 Mi em receita com 2.547 transações. Junho também merece destaque como um mês isolado de alta conversão.
+**Os Melhores Períodos (Alta Performance):** 
 
-**Os Piores Períodos (Baixa Performance):** Fevereiro foi o mês com a menor receita do ano (R$ 1,28 Mi), mesmo tendo quase o dobro de transações que janeiro. Janeiro, por sua vez, foi o período de menor tráfego/volume da loja, registrando apenas 884 transações em 31 dias.
+- O último trimestre (Q4) é indiscutivelmente o mais forte. Dezembro é o mês recorde absoluto, gerando R$ 2,50 Mi em receita com 2.547 transações. Junho também merece destaque como um mês isolado de alta conversão.
+
+**Os Piores Períodos (Baixa Performance):** 
+
+- Fevereiro foi o mês com a menor receita do ano (R$ 1,28 Mi), mesmo tendo quase o dobro de transações que janeiro. Janeiro, por sua vez, foi o período de menor tráfego/volume da loja, registrando apenas 884 transações em 31 dias.
 
 ## O Perfil Demográfico e Geográfico (Baseado em Receita)
 
@@ -74,7 +91,7 @@ Olhando para as barras e a linha de tendência, os extremos ficam muito claros:
 
 **Estado com Maior Resultado:** A Califórnia é, de longe, o seu principal mercado, gerando 4.041.230. Ela é seguida pela Inglaterra (2.784.416) e por New South Wales (2.755.345).
 
-
+---
 
 
 
