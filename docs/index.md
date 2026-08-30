@@ -46,7 +46,7 @@ Após as etapas de restauração do banco de dados, preparação da infraestrutu
 
 ## *Architecture:*
 
-![Arquitetura](../images/fluxo_completo_project_adventureworks.png)
+![Arquitetura](images/fluxo_completo_project_adventureworks.png)
 
 ---
 

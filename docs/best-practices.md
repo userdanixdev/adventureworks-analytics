@@ -8,20 +8,19 @@
 
 Os processos de transformação foram organizados em pastas, separando tabelas de dimensão e fato. Foram criados parâmetros para centralizar as informações de conexão, como caminho do servidor e nome do banco de dados. Essa abordagem evita valores fixos nas consultas e facilita futuras alterações no ambiente de dados. Também foram utilizados os parâmetros RangeStart e RangeEnd, seguindo as boas práticas para definição de períodos e preparação do modelo para recursos como atualização incremental no Power BI.
 
-![](../images/boas_praticas_power_query.png)
+![Boas Práticas](images/boas_praticas_power_query.png)
 
 ## 2. Modelagem Dimensional
 
 O modelo de dados foi estruturado seguindo o esquema estrela, separando a tabela fato das tabelas dimensão e estabelecendo relacionamentos adequados entre elas. Essa abordagem contribui para uma modelagem mais organizada, melhor desempenho e maior facilidade na criação de análises e métricas.
 
-![](../images/fluxo_data_visualization.png)
+![Boas Práticas](images/fluxo_data_visualization.png)
 
 ## 3. Interatividade e Experiência do Usuário
 
 Foram implementados recursos de interatividade para permitir a exploração dos dados de forma dinâmica, utilizando filtros, segmentações e interações entre os visuais. Dessa forma, o usuário pode analisar os indicadores sob diferentes perspectivas e períodos.
 
 ---
-
 
 ### Resultado:
 
